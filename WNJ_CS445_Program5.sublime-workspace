@@ -1,0 +1,1425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sl",
+				"sl-light"
+			],
+			[
+				"ri",
+				"risuto-light"
+			],
+			[
+				"font-",
+				"font-style:   (property)"
+			],
+			[
+				"risu",
+				"risuto-dark"
+			],
+			[
+				"time",
+				"time-point"
+			],
+			[
+				"fir",
+				"first-child  (pseudo-class)"
+			],
+			[
+				"year",
+				"year-section"
+			],
+			[
+				"f",
+				"first-of-type  (pseudo-class)"
+			],
+			[
+				"date",
+				"date-range"
+			],
+			[
+				"date-",
+				"date-range-section"
+			],
+			[
+				"last",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"init",
+				"initial_medium"
+			],
+			[
+				"anime",
+				"animeOrange"
+			],
+			[
+				"border",
+				"border-left:   (property)"
+			],
+			[
+				"text",
+				"text-decoration:   (property)"
+			],
+			[
+				"docu",
+				"document  (variable)"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"word-",
+				"word-break:   (property)"
+			],
+			[
+				"ab",
+				"absolute  (value)"
+			],
+			[
+				"background",
+				"background-origin:   (property)"
+			],
+			[
+				"c",
+				"center  (value)"
+			],
+			[
+				"last-",
+				"last-of-type  (pseudo-class)"
+			],
+			[
+				"conten",
+				"contentWidth"
+			],
+			[
+				"margin-bo",
+				"margin-bottom:   (property)"
+			],
+			[
+				"inline",
+				"inline-block  (value)"
+			],
+			[
+				"bord",
+				"border-style:   (property)"
+			],
+			[
+				"field",
+				"fieldset  (element)"
+			],
+			[
+				"posit",
+				"position:   (property)"
+			],
+			[
+				"fo",
+				"foxyRed"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text-a",
+				"text-align-last:   (property)"
+			],
+			[
+				"st",
+				"style  (variable)"
+			],
+			[
+				"inlin",
+				"inline-block  (value)"
+			],
+			[
+				"z",
+				"z-index:   (property)"
+			],
+			[
+				"dark",
+				"darkPaperColor"
+			],
+			[
+				"rotate",
+				"rotateSpinner"
+			],
+			[
+				"back",
+				"background-color:   (property)"
+			],
+			[
+				"vert",
+				"vertical-align:   (property)"
+			],
+			[
+				"rel",
+				"relative  (value)"
+			],
+			[
+				"sans",
+				"sans-serif  (value)"
+			],
+			[
+				"text-",
+				"text-decoration:   (property)"
+			],
+			[
+				"positi",
+				"position:   (property)"
+			],
+			[
+				"si",
+				"size:   (property)"
+			],
+			[
+				"bold",
+				"bold  (value)"
+			],
+			[
+				"font-size",
+				"font-size:   (property)"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"table-",
+				"table-cell"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"none",
+				"none  (value)"
+			],
+			[
+				"text-align",
+				"text-align:   (property)"
+			],
+			[
+				"block",
+				"block  (value)"
+			],
+			[
+				"left",
+				"left  (value)"
+			],
+			[
+				"non",
+				"none  (value)"
+			],
+			[
+				"abo",
+				"absolute  (value)"
+			],
+			[
+				"padding-bott",
+				"padding-bottom:   (property)"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"add",
+				"add_activated"
+			],
+			[
+				"de",
+				"destroy	function"
+			],
+			[
+				"config",
+				"configure	function"
+			],
+			[
+				"my",
+				"myCollection	statement"
+			],
+			[
+				"ttl",
+				"!ttl	Title"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"qui",
+				"quizWeight"
+			],
+			[
+				"out",
+				"outputFile	statement"
+			],
+			[
+				"symbol",
+				"symbolTable	statement"
+			],
+			[
+				"sym",
+				"symbolTable	statement"
+			],
+			[
+				"toke",
+				"token	statement"
+			],
+			[
+				"token",
+				"tokenType"
+			],
+			[
+				"input",
+				"inputLine	param"
+			],
+			[
+				"inpt",
+				"inputLine	statement"
+			],
+			[
+				"cha",
+				"charErr"
+			],
+			[
+				"Test",
+				"testString	statement"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"inpu",
+				"inputList	statement"
+			],
+			[
+				"ra",
+				"range	class"
+			],
+			[
+				"p",
+				"pprint	function"
+			],
+			[
+				"array",
+				"array4"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SDP.md",
+			"settings":
+			{
+				"buffer_size": 610,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "blaster.c",
+			"settings":
+			{
+				"buffer_size": 16450,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "my_setup_3D.h",
+			"settings":
+			{
+				"buffer_size": 1694,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 80.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"cssfo",
+				"Snippet: CSS Footer Style Begin"
+			],
+			[
+				"css ma",
+				"Snippet: CSS Main Style Begin"
+			],
+			[
+				"cssh",
+				"Snippet: CSS Header Style Begin"
+			],
+			[
+				"css gl",
+				"Snippet: CSS Global Style Begin"
+			],
+			[
+				"css g",
+				"Snippet: CSS Global Style Begin"
+			],
+			[
+				"glo",
+				"Snippet: CSS Global Style Begin"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"key",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"new m",
+				"Snippet: New_Markdown_Note"
+			],
+			[
+				"sniph",
+				"Snippet: html"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"livest",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"c++	",
+				"Set Syntax: C++"
+			],
+			[
+				"livestyle",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"Snippet: ",
+				"Snippet: NewSansSerifLaTex"
+			],
+			[
+				"view",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"subli py",
+				"SublimeREPL: Python"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"lav",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"previ",
+				"Pandoc: Render Markdown to temp HTML and View"
+			],
+			[
+				"vpdf",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"late",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"pro",
+				"Set Syntax: Prolog"
+			],
+			[
+				"prol",
+				"Set Syntax: Prolog"
+			],
+			[
+				"prolo",
+				"Set Syntax: Prolog"
+			],
+			[
+				"todo",
+				"SimpleTODO: Add TODO"
+			],
+			[
+				"ja buil",
+				"Javatar: Builds..."
+			],
+			[
+				"java",
+				"Javatar: Builds..."
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"pastry",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"keyn",
+				"Keymaps: Find a keymap for..."
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"alignt",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"cheat",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"keyam",
+				"Keymaps: Find a keymap for..."
+			],
+			[
+				"goo",
+				"Google Spell Check"
+			],
+			[
+				"spel",
+				"Google Spell Check"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"openInBrowser",
+			"selectAll",
+			"insertCharacters \"Hello World!\\n\"",
+			"insertCharacters t",
+			"insertCharacters \"this\"",
+			"insertCharacters This",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/WNJ_CS445_Program4/blaster.c",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Code/From Textbook/sphereInBox1.cpp",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/Lighting Test/my_setup_3D.h",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/Lighting Test/blaster.c",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/WNJ_CS445_Program5/SDP.md",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/WNJ_CS445_Program5/blaster.c",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/WNJ_CS445_Program5/my_setup_3D.h",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/storyline.sublime-project",
+		"/C/Users/Nick/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/js/controllers.js",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/stories/sword-art-online.json",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/js/app.js",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/index.jade",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/stories/test.json",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Javascript/Angularjs/WinTutorial/angular-phonecat/app/phones/phones.json",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Javascript/Angularjs/WinTutorial/angular-phonecat/app/js/controllers.js",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Javascript/Angularjs/WinTutorial/angular-phonecat/app/index.html",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Javascript/Angularjs/WinTutorial/angular-phonecat/app/js/app.js",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/stories/stories.json",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/stories.json",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS499 - Senior Project/Project/BMU/create-dev.sh",
+		"/C/Users/Nick/docker/Vagrantfile",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/old-index.html",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/sass/app.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/sass/font-awesome-sass.css.sass",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/sass/font-awesome-4.0.3/scss/_variables.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/sass/ie.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/sass/print.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Storyline/app/sass/screen.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/sword-art-online.story",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/sass/font-awesome-4.0.3/scss/_variables.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/sword-art-online.anime",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/collection.js",
+		"/C/Users/Nick/AppData/Local/Temp/scp46101/home/nicjoh41/zentsune.com/public/storyline/stylesheets/screen.css",
+		"/C/Users/Nick/AppData/Local/Temp/scp04293/home/nicjoh41/zentsune.com/quickstart.html",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/font-awesome-4.0.3/scss/_variables.scss",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/index.html",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/test.html",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/CSS Global Style Begin.sublime-snippet",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS490 - OS/Homework/Assignment 1/pq.c",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/stylesheets/master.styl",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/stylesheets/master.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/stylesheets/master.sass",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/CSS Header Style Begin.sublime-snippet",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/CSS Main Style Begin.sublime-snippet",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/CSS Footer Style Begin.sublime-snippet",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/sass/screen.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/stylesheets/respix.styl",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Stylus/responsive-pixels/css/reset.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/stylesheets/index.styl",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Stylus/responsive-pixels/index.styl",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Stylus/responsive-pixels/css/index.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Stylus/responsive-pixels/css/tests.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Stylus/responsive-pixels/readme.md",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/stylesheets/master.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/GringottsMockup/master.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/anime.json",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Zentsune/sass/screen.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Zentsune/stylesheets/screen.css",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/CoffeeComplete Plus (Autocompletion)/Default (Windows).sublime-keymap",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/Better CoffeeScript/Keymaps/Default (Windows).sublime-keymap",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/collection.coffee",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/Add jQuery.sublime-snippet",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/WNJ_CS445_Program2/my_setup_3D.h",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/WNJ_CS445_Program2/spinner.c",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/Webfonts/museosans_500_macroman/stylesheet.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Anime Collection/main.py",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Anime Collection/anime.py",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Anime Collection/collection.py",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Anime Collection/app.py",
+		"/C/Users/Nick/Dropbox/Personal/Projects/AnimeCollection/Anime Collection.sublime-project",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Zentsune/fonts/museoslab_500_macroman/stylesheet.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Zentsune/master.scss",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Zentsune/normalize.css",
+		"/C/xampp/htdocs/index.html",
+		"/C/Users/Nick/Dropbox/Personal/Projects/Zentsune/Anime/index.html",
+		"/C/Users/Nick/Dropbox/Personal/Projects/ZentsuneSite/index.html",
+		"/C/xampp/htdocs/monty.php",
+		"/C/xampp/htdocs/greetUser.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/HTML-Customized.sublime-snippet",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/html.sublime-snippet",
+		"/C/Websites/AnimeCollection/index.html",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Lecture Info/CS445_notes_0204.md",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/WNJ_CS445_Program2/Assignment2Requirements.md",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Code/From Textbook/circularAnnuluses.cpp",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/WNJ_CS445_Program1/spinner.c",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/BufferScroll.sublime-settings",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Lecture Info/CS445_notes_0123.md",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Lecture Info/CS445_notes_0128.md",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Lecture Info/CS445_notes_0121.md",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Lecture Info/CS445_notes_0206.md",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Lecture Info/CS445_notes_0109.md",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Javascript/DummiesBook/master.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/Javascript/DummiesBook/DummiesBook.sublime-project",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/GringottsMockup/code.coffee",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/GringottsMockup/index.html",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/Plain text.sublime-settings",
+		"/C/Users/Nick/Dropbox/School/2014_Spring/CS445 - Graphics/Homework/Programming/spinner.c",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/Markdown.sublime-settings",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/GringottsMockup/master.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/GringottsMockup/master.sass",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/Nick/AppData/Local/Temp/7zOFC61.tmp/readme.md",
+		"/C/Users/Nick/AppData/Local/Temp/7zOCE2C.tmp/SASS.sublime-build",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/Nick/Desktop/GringottsMockup/master.css",
+		"/C/Users/Nick/Desktop/GringottsMockup/index.html",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/GringottsMockup/stylesheet.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/First Tutorial/master.css",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/webPreview.sublime-build",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/GringottsMockup/fonts.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/GringottsMockup/normalize.css",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/master.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/index.html",
+		"/C/Users/Nick/AppData/Local/Temp/7zO83DC.tmp/README-sublime-typescript.txt",
+		"/C/Users/Nick/AppData/Local/Temp/7zOFDE8.tmp/README",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/master2.css",
+		"/C/Users/Nick/Dropbox/Personal/Projects/MiscCode/HTML/Practicing/main.css",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/StringUtilities/README.md",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/StringUtilities/stringutilities.py",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/User/ToggleRulers.py",
+		"/C/Users/Nick/Dropbox/Applications/SublimeText3/Data/Packages/Browser Refresh/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"light_init",
+			"lightInit",
+			"glutWireCube",
+			"-plus",
+			"add-button",
+			"top",
+			"dark",
+			"900px",
+			"sl-light",
+			"animation",
+			"novel",
+			"manga",
+			"game",
+			"anime",
+			"name",
+			"storylineApp",
+			"angular",
+			"images",
+			"risuto",
+			"storyline",
+			"risuto",
+			"manga",
+			"ccc",
+			"panel",
+			"details",
+			"time-details",
+			"year",
+			"year-section",
+			"media-panel",
+			"media-panels",
+			"risuto-?.*-gray",
+			"risuto",
+			"a(href='#')",
+			"12px",
+			"a.",
+			"a",
+			"panel-name",
+			"marker",
+			"section",
+			"333",
+			"left",
+			"eee",
+			"hr",
+			"$ranobe-red",
+			"$novel-red",
+			"1px",
+			"red",
+			"genre",
+			"append",
+			"40px",
+			"#000",
+			"1px",
+			"2px",
+			"1px",
+			"0",
+			"1",
+			"5",
+			"margin",
+			"12px",
+			"td",
+			"</tr>",
+			"<tr>",
+			"infoLine",
+			"<span class=\\\"infoData\\\">\" + ",
+			"p",
+			"1px",
+			"2",
+			"studio",
+			"label",
+			"writer",
+			":",
+			", \n              \"padding-left\": \"12px\"})",
+			"margin-left",
+			"padding",
+			"label",
+			"<em>",
+			"</em>",
+			"<em>",
+			"p",
+			"12px",
+			"h2",
+			"555",
+			"h2",
+			"html",
+			"title",
+			"</label>",
+			"label",
+			"<label.*\">",
+			"genre",
+			"12px",
+			"h3",
+			"CTRL ENTER",
+			"LISTS",
+			"add",
+			"ddd",
+			"eee",
+			"1",
+			"aaa",
+			"fff",
+			"</span>",
+			"<span class=\"formElement\">",
+			"</span>",
+			"<input",
+			"txtStartYear",
+			"txtEpisodeCount",
+			"60px",
+			"sunnyWhite",
+			"60px",
+			"48px",
+			"8",
+			"foxOrange",
+			"black",
+			"default-font",
+			"h3",
+			"nose",
+			"id",
+			"radio",
+			"\\",
+			":\\",
+			"initialDraw",
+			"str",
+			"10",
+			"200",
+			"480px",
+			"drawing",
+			"<script>\n\n            document.body.style.color = \"white\";\n            document.body.style.backgroundColor = \"blue\";\n\n        </script>",
+			"0.5",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"-user",
+			"storyline",
+			"risuto-light",
+			"fff",
+			"<h2>",
+			"",
+			"else if(rotationAngle == ",
+			"case((int)",
+			"case(",
+			"v3",
+			"v2",
+			"v1",
+			"pq_t",
+			"pq_entry_t",
+			"tkinter",
+			"-",
+			"Internet",
+			"__",
+			"vertex",
+			"egg",
+			" +",
+			"C:\\\\Users\\\\Nick\\\\Dropbox"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SDP.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								570,
+								570
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blaster.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3206,
+								3206
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"rulers":
+							[
+								70
+							],
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 603.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "my_setup_3D.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "blaster.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11120,
+								11120
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"rulers":
+							[
+								70
+							],
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5276.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 266.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "WNJ_CS445_Program5.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".anim",
+				"sword-art-online.anime"
+			],
+			[
+				"coll",
+				"collection.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Nick\\Dropbox\\Personal\\Projects\\Storyline\\storyline.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 115.0,
+		"selected_items":
+		[
+		],
+		"width": 360.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

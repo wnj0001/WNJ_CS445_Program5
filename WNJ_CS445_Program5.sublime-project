@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"WNJ_CS445_Program5.opensdf",
+				"WNJ_CS445_Program5.sln",
+				"WNJ_CS445_Program5.vcxproj",
+				"WNJ_CS445_Program5.vcxproj.filters"
+			],
+			"folder_exclude_patterns":
+			[
+				"Debug"
+			],
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}
